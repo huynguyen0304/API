@@ -17,25 +17,25 @@
             "choices": [
                 {
                     "id_choices": "c001",
-                    "votes": [],
+                    "votes": 4,
                     "choice_text": "Qua bạn bè",
                     "id_question": "q001"
                 },
                 {
                     "id_choices": "c002",
-                    "votes": [],
+                    "votes": 1,
                     "choice_text": "Qua website công ty",
                     "id_question": "q001"
                 },
                 {
                     "id_choices": "c003",
-                    "votes": [],
+                    "votes": 1,
                     "choice_text": "Qua các tin tức, bài báo",
                     "id_question": "q001"
                 },
                 {
                     "id_choices": "c004",
-                    "votes": [],
+                    "votes": 2,
                     "choice_text": "Qua các mối quan hệ trong công ty",
                     "id_question": "q001"
                 }
@@ -49,25 +49,25 @@
             "choices": [
                 {
                     "id_choices": "c005",
-                    "votes": [],
+                    "votes": 1,
                     "choice_text": "Nhân viên hòa đồng",
                     "id_question": "q002"
                 },
                 {
                     "id_choices": "c006",
-                    "votes": [],
+                    "votes": 3,
                     "choice_text": "Hỗ trợ kinh phí cho sinh viên thực tập",
                     "id_question": "q002"
                 },
                 {
                     "id_choices": "c007",
-                    "votes": [],
+                    "votes": 2,
                     "choice_text": "Công nghệ tốt",
                     "id_question": "q002"
                 },
                 {
                     "id_choices": "c008",
-                    "votes": [],
+                    "votes": 5,
                     "choice_text": "Cấp trên thân thiện, giúp đỡ nhiệt tình",
                     "id_question": "q002"
                 }
