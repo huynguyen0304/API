@@ -1,14 +1,48 @@
 {
     "account": [
         {
-            "id": 1,
+            "id": "a001",
             "username": "admin",
             "password": "admin1234"
         },
         {
-            "id": 2,
+            "id": "a002",
             "username": "huy",
             "password": "huy123"
+        }
+    ],
+    "question": [
+        {
+            "id_question": "q001",
+            "choices": [
+                {
+                    "id_choices": "c001",
+                    "votes": [],
+                    "choice_text": "Qua bạn bè",
+                    "id_question": "q001"
+                },
+                {
+                    "id_choices": "c002",
+                    "votes": [],
+                    "choice_text": "Qua website công ty",
+                    "id_question": "q001"
+                },
+                {
+                    "id_choices": "c003",
+                    "votes": [],
+                    "choice_text": "Qua các tin tức, bài báo",
+                    "id_question": "q001"
+                },
+                {
+                    "id_choices": "c004",
+                    "votes": [],
+                    "choice_text": "Qua các mối quan hệ trong công ty",
+                    "id_question": "q001"
+                }
+            ],
+            "question": "Điều gì đưa bạn đến với CMC ?",
+            "pub_date": "2019-10-07T10:34:13.864985Z",
+            "created_by": "u001"
         }
     ]
 }
