@@ -43,6 +43,38 @@
             "question": "Điều gì đưa bạn đến với CMC ?",
             "pub_date": "2019-10-07T10:34:13.864985Z",
             "created_by": "u001"
+        },
+        {
+            "id_question": "q002",
+            "choices": [
+                {
+                    "id_choices": "c005",
+                    "votes": [],
+                    "choice_text": "Nhân viên hòa đồng",
+                    "id_question": "q002"
+                },
+                {
+                    "id_choices": "c006",
+                    "votes": [],
+                    "choice_text": "Hỗ trợ kinh phí cho sinh viên thực tập",
+                    "id_question": "q002"
+                },
+                {
+                    "id_choices": "c007",
+                    "votes": [],
+                    "choice_text": "Công nghệ tốt",
+                    "id_question": "q002"
+                },
+                {
+                    "id_choices": "c008",
+                    "votes": [],
+                    "choice_text": "Cấp trên thân thiện, giúp đỡ nhiệt tình",
+                    "id_question": "q002"
+                }
+            ],
+            "question": "Bạn thấy môi trường ở đây thế nào ?",
+            "pub_date": "2019-10-07T10:34:13.864985Z",
+            "created_by": "u001"
         }
     ]
 }
