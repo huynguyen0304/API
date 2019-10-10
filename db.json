@@ -1,12 +1,12 @@
 {
     "account": [
         {
-            "id": "a001",
+            "id_account": "a001",
             "username": "admin",
             "password": "admin1234"
         },
         {
-            "id": "a002",
+            "id_account": "a002",
             "username": "huy",
             "password": "huy123"
         }
