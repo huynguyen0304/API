@@ -76,5 +76,54 @@
             "pub_date": "2019-10-07T10:34:13.864985Z",
             "created_by": "u001"
         }
+    ],
+    "evaluation": [
+        {
+            "id": 48,
+            "form": 15,
+            "user": 2,
+            "submitted_time": "2019-11-09T09:28:09.859776Z",
+            "results": [
+                {
+                    "id": 40,
+                    "answers": [
+                        {
+                            "id": 52
+                        },
+                        {
+                            "id": 53
+                        }
+                    ],
+                    "question": 31,
+                    "value": ""
+                },
+                {
+                    "id": 41,
+                    "answers": [
+                        {
+                            "id": 55
+                        }
+                    ],
+                    "question": 32,
+                    "value": ""
+                },
+                {
+                    "id": 42,
+                    "answers": [],
+                    "question": 33,
+                    "value": "nhanvo"
+                },
+                {
+                    "id": 43,
+                    "answers": [
+                        {
+                            "id": 57
+                        }
+                    ],
+                    "question": 34,
+                    "value": ""
+                }
+            ]
+        }
     ]
 }
