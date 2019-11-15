@@ -34,30 +34,7 @@
                     "isRight": false
                 }
             ]
-        },
-        {
-            "id": 24,
-            "title": "alooooo???????",
-            "type_questions": "multiple",
-            "isRequired": true,
-            "answers": [
-                {
-                    "id": 40,
-                    "answer": "son",
-                    "isRight": false
-                },
-                {
-                    "id": 41,
-                    "answer": "huy",
-                    "isRight": false
-                },
-                {
-                    "id": 42,
-                    "answer": "bao",
-                    "isRight": false
-                }
-            ]
-        },
+        }
     ],
     "evaluation": [
         {
